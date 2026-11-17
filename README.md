@@ -7,3 +7,4 @@
 </p>
 
 may be unresponsive (mostly because of mood), but I don't bite ^^ still wip bro tstststst
+![snake gif](https://github.com/jangnyeong/jangnyeong/blob/output/github-snake-dark.svg)
