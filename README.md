@@ -1,6 +1,17 @@
 <p align="center">
   <img src="https://files.catbox.moe/ugllky.png" alt="Divider" width="100%" />
 </p>
+ 
+<p align="center">
+  <a href="https://wonyoung.atabook.org/">
+    <img src="https://files.catbox.moe/3lnues.png" alt="Sign Ata" width="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kuro.rip/jangwonyoung">
+    <img src="https://files.catbox.moe/4ukebo.png" alt="Kuro" width="100" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=7yfkcsh63ei804m07cv1xmx06&theme=dark&count=3&width=500&radius=4&logo=0&unique=1&profile=off&text_color=ffe2ff&artist_color=ffd4fe&meta_color=ffb5f7&accent_color=ff7fdf" alt="Spotify recently played" />
